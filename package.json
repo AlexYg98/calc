@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AlexYg98/calc/issues"
   },
-  "homepage": "https://github.com/AlexYg98/calc#readme"
+  "homepage": "https://github.com/AlexYg98/calc#readme",
+  "dependencies": {
+    "mathjs": "^6.0.3"
+  }
 }
