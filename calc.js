@@ -15,3 +15,7 @@ exports.multiply = function(x,y) {
 exports.divide = function(x,y) {
     return mathjs.divide(x, y);
 }
+
+exports.abs = function(x) {
+    return mathjs.abs(x);
+}
