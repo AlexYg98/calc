@@ -8,6 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.2.0] - 2019/07/15
 ### Added
+- ajout fonction abs
+- modifition test.js ajout test abs
+
+## [0.2.0] - 2019/07/15
+### Added
 - ajout mathjs 
 - modification des fonctions pour utiliser mathjs
 - update fichier test.js
