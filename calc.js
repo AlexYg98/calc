@@ -17,8 +17,5 @@ exports.divide = function(x,y) {
 }
 
 exports.abs = function(x) {
-    if (x < 0){
-        x = x * -1;
-    };
-    return x;
+    return mathjs.abs(x);
 }
