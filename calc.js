@@ -1,15 +1,17 @@
-function add(x, y) {
-    return x + y;
+var mathjs = require('mathjs');
+
+exports.add = function(x,y) {
+    return mathjs.add(x, y);
 }
 
-function substract(x, y) {
-    return x - y;
+exports.subtract = function(x,y) {
+    return mathjs.subtract(x, y);
 }
 
-function multiply(x, y) {
-    return x * y;
+exports.multiply = function(x,y) {
+    return mathjs.multiply(x, y);
 }
 
-function divide(x, y) {
-    return x / y;
+exports.divide = function(x,y) {
+    return mathjs.divide(x, y);
 }
