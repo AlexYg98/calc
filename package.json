@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/AlexYg98/calc#readme",
   "dependencies": {
-    "mathjs": "^6.0.3"
+    "mathjs": "^7.5.1"
   }
 }
